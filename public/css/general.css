@@ -19,6 +19,7 @@ h1 {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 65px;
+    margin: 4px;
 }
 
 ul li {
@@ -31,4 +32,8 @@ a {
 
 ul {
     padding-left: 0;
+}
+
+i{
+    color: black;
 }
